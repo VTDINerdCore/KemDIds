@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/kahnpc/AndroidStudioProjects/KemDIds/mobile/build/intermediates/pre-dexed/debug/classes-173d7204fb84034a4132cfc3bceb2902791d6427.jar"
+        jar="/home/kahnpc/AndroidStudioProjects/KemDIds/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="/home/kahnpc/AndroidStudioProjects/KemDIds/mobile/build/intermediates/pre-dexed/debug/support-v4-19.1.0-86668cccd61edd2c776b9004b4a40c17854d2af9.jar"
+        jar="/home/kahnpc/Documents/tools/android_test2/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.png">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000"
+       id="path2995-4"
+       sodipodi:cx="351.42856"
+       sodipodi:cy="733.79077"
+       sodipodi:rx="131.42857"
+       sodipodi:ry="118.57143"
+       d="m 482.85713,733.79077 a 131.42857,118.57143 0 1 1 -262.85715,0 131.42857,118.57143 0 1 1 262.85715,0 z"
+       transform="matrix(1.3118708,0,0,1.3576071,-103.99374,-579.64614)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff6600"
+       id="path2989-2"
+       sodipodi:cx="368.57144"
+       sodipodi:cy="242.36218"
+       sodipodi:rx="131.42857"
+       sodipodi:ry="127.14286"
+       d="m 500.00002,242.36218 a 131.42857,127.14286 0 1 1 -262.85715,0 131.42857,127.14286 0 1 1 262.85715,0 z"
+       transform="matrix(1.1949715,0,0,1.1949715,-77.593048,136.67429)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff"
+       id="path2991-5"
+       sodipodi:cx="365.71429"
+       sodipodi:cy="252.36218"
+       sodipodi:rx="80"
+       sodipodi:ry="74.285713"
+       d="m 445.71429,252.36218 a 80,74.285713 0 1 1 -160,0 80,74.285713 0 1 1 160,0 z"
+       transform="matrix(1.7497797,0,0,1.8384178,-253.1807,-12.050396)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff"
+       id="path2993-6"
+       sodipodi:cx="370"
+       sodipodi:cy="260.93362"
+       sodipodi:rx="7.1428571"
+       sodipodi:ry="17.142857"
+       d="m 377.14286,260.93362 a 7.1428571,17.142857 0 1 1 -14.28572,0 7.1428571,17.142857 0 1 1 14.28572,0 z"
+       transform="matrix(1.1949715,0,0,1.1949715,-77.593048,136.67429)" />
+    <text
+       xml:space="preserve"
+       style="font-size:179.7247467px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
+       x="13.496145"
+       y="719.75079"
+       id="text2985-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-5"
+         x="13.496145"
+         y="719.75079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">KemDids</tspan></text>
+  </g>
+</svg>
